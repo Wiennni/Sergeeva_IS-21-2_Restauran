@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sergeeva_IS-21-2_ Restaurant</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_restaurants">Все рестораны</string>
+    <string name="work_time">Время работы</string>
+    <string name="booking_time">Время бронирования</string>
+    <string name="book_title">Забронировать</string>
+</resources>
